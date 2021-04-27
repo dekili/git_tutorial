@@ -2,3 +2,4 @@ Initialisiere neues Git Repository mit Fork
 Lege neue .txt Files an: howto.txt, liste.txt 
 Erstelle zwei Branches: howto, einkauf
 Update howto.txt
+Neuer Commit on branch einkauf: lege in liste.txt neue Tabellenstruktur an 
