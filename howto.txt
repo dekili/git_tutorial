@@ -13,3 +13,4 @@ Committe den Merge
 Erstelle neuen Order und korrespondierenden Branch images
 Füge neues Bild ein 
 Erstelle in master .gitignore File, um bestimmte Datentypen von Commits auszuschließen
+Rewrite History: Interactive Rebase von mehreren Commits in Branch e_person1 (Squash)
