@@ -2,3 +2,4 @@
 Produkt 	| 	Preis 	| 	Laden 	|
 -------------------------------------
 Gummibärchen 	0,99 		Edeka 	
+Salat 			0,49 		tegut
