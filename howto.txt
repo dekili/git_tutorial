@@ -3,3 +3,5 @@ Lege neue .txt Files an: howto.txt, liste.txt
 Erstelle zwei Branches: howto, einkauf
 Update howto.txt
 Neuer Commit on branch einkauf: lege in liste.txt neue Tabellenstruktur an 
+Betrachte in Branch einkauf den File Tree: howto.txt ist hier noch leer, da der Branch bislang noch separat von Branch howto verläuft
+Führe ersten Merge der Branches einkauf und howto auf den Branch master durch
